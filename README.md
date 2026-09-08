@@ -242,3 +242,12 @@ MIT License - Feel free to use and modify!
 ---
 
 Made with ❤️ using Cloudflare Workers AI
+
+---
+
+<div align="center">
+
+Crafted with ❤️ by **[Mehak Sandhu](https://github.com/mehaksandhudev)** • [Portfolio](https://www.mehak-sandhu.in)
+
+</div>
+
